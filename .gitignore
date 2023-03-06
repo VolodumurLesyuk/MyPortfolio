@@ -1,2 +1,8 @@
 .idea/
 .venv/
+*.pyc
+__pycache__
+db.sqlite3
+*.env
+ACCC4CF8.asc
+ACCC4CF8.asc.1
